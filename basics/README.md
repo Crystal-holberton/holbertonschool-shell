@@ -1,2 +1,3 @@
 My first script
-Adding another script
+Learning to create and utilise scripts.
+Creating commands through the use of scripts.
